@@ -1,0 +1,1 @@
+/opt/spark/bin/pyspark $1 --py-files lib/graphframes-0.1.0-spark1.6.jar --jars lib/graphframes-0.1.0-spark1.6.jar
